@@ -1,2 +1,3 @@
-# Pro-C28-V2-Piratas
-Pro C28 V2 Piratas Game Over 
+# Invasion-Pirata-etapa6
+
+agregar sonidos y puntuación
